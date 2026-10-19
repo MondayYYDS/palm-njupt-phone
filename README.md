@@ -22,6 +22,8 @@
 
 项目已在 HarmonyOS 真机上完成功能验证。
 
+> 配套仓库：[掌上南邮 · 手表端](https://github.com/MondayYYDS/palm-njupt-watch)
+
 ## 功能特性
 
 | 模块 | 功能 | 技术要点 |
