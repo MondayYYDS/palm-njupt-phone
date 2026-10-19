@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "掌上南邮手机端"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "面向南邮学子的校园资讯与服务应用"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "掌上南邮"
+    }
+  ]
+}

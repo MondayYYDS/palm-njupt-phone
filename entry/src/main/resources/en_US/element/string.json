@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Palm NJUPT phone app"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "Campus information and services for NJUPT students"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "Palm NJUPT"
+    }
+  ]
+}

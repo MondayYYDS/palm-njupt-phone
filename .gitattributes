@@ -1,0 +1,19 @@
+* text=auto
+
+*.ets   text eol=lf
+*.ts    text eol=lf
+*.js    text eol=lf
+*.json  text eol=lf
+*.json5 text eol=lf
+*.md    text eol=lf
+*.bat   text eol=crlf
+*.cmd   text eol=crlf
+
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.jar  binary
+*.har  binary
+*.hap  binary

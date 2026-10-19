@@ -1,0 +1,14 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "掌上南邮手机端主模块",
+  "license": "Apache-2.0",
+  "ohos": {
+    "org": "huawei",
+    "directoryLevel": "module",
+    "buildTool": "hvigor"
+  },
+  "repository": {},
+  "devDependencies": {},
+  "dependencies": {}
+}

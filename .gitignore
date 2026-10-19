@@ -1,0 +1,30 @@
+# ---- HarmonyOS / DevEco Studio ----
+/local.properties
+/.idea
+/.hvigor
+**/build
+**/.preview
+**/.test
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+
+# ---- Dependencies ----
+/node_modules
+/oh_modules
+
+# ---- Signing materials (never commit) ----
+*.p12
+*.cer
+*.p7b
+*.keystore
+*.jks
+/signing/
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
